@@ -1,7 +1,7 @@
 # Visitor-Id
 Identifies house visitors 
 
-Requires
- Face Recongition 
- Numpy
- picamera
+Requires:
+Face Recongition,
+Numpy,
+picamera.
