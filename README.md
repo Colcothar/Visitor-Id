@@ -5,3 +5,6 @@ Requires:
 Face Recongition,
 Numpy,
 picamera.
+
+Four main 
+
